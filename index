@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to SCT Reports</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: Montserrat, sans-serif;
+      background-color: #f4f4f4;
+      padding-top: 50px;
+    }
+    img {
+      max-width: 200px;
+      height: auto;
+    }
+    h1 {
+      color: #333;
+    }
+    .btn {
+      background-color: #007BFF;
+      color: white;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <img src="your_logo_url_here" alt="SCT Logo">
+  <h1>Welcome to SCT Reports</h1>
+  <p>Click below to proceed to the reports dashboard.</p>
+  <a href="https://reports.sctsolutions.co.za:3000" class="btn">Proceed to Reports</a>
+</body>
+</html>
